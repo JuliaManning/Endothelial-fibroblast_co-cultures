@@ -4,4 +4,6 @@ HUVECs were cultured with firboblasts from patients with resolving arthritis (Re
 
 RNA isolated from the HUVECs and firboblasts, in particular to see if fibrboblats 
 
-But large difference between HUVEC donors (which were also used in seperate batches) observed, hence batch corrections applied 
+But large difference between HUVEC donors (which were also used in seperate batches) observed and sepertaion according to sex
+
+Therefore sex genes were removed and batch corrections applied 

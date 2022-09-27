@@ -1,2 +1,7 @@
-# Endothelial-firbobalst_co-culture-analysis
-Scripts used to 
+# Endothelial-firbobalst-co-culture-analysis
+
+HUVECs were cultured with firboblasts from patients with resolving arthritis (Res), very early arthritis (VeRA) and joint replacement (JRep) 
+
+RNA isolated from the HUVECs and firboblasts, in particular to see if fibrboblats 
+
+But large difference between HUVEC donors (which were also used in seperate batches) observed, hence batch corrections applied 

@@ -548,11 +548,11 @@ g <- ggplot(TGFB1, aes(x=Diagnosis, y=count, colour = fibrosampleinfo$Diagnosis)
   scale_y_log10()+
   ggtitle("TGFB1")+
   ylab("Normalised count")
-h <- ggplot(TGFB1, aes(x=Diagnosis, y=count, colour = fibrosampleinfo$Diagnosis)) + 
+h <- ggplot(TNF, aes(x=Diagnosis, y=count, colour = fibrosampleinfo$Diagnosis)) + 
   theme(legend.position = "none") +
   geom_point(position=position_jitter(w=0.1,h=0)) + 
   scale_y_log10()+
-  ggtitle("TGFB1")+
+  ggtitle("TNF")+
   ylab("Normalised count")
 i <- ggplot(ACVRL1, aes(x=Diagnosis, y=count, colour = fibrosampleinfo$Diagnosis)) + 
   theme(legend.position = "none") +
